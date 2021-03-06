@@ -1,2 +1,2 @@
 # SimpleKitPVP
-One kit pvp, with some fun stuff :)
+Simple kit pvp, with some fun stuff :)
